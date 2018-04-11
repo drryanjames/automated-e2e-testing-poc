@@ -1,7 +1,9 @@
 # automated-e2e-testing-poc
 
 ## Getting Started
-(instructions take from [here](https://www.protractortest.org/#/))
+
+### Setup Protractor 
+Instructions borrowed from www.protractortest.org
 
 Install protractor
 ```
@@ -18,7 +20,7 @@ Start the server
 webdriver-manager start
 ```
 
-Run the tests
+### Run the tests
 ```
 cd automated-e2e-testing-poc
 npm test
